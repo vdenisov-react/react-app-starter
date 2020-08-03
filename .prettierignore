@@ -1,0 +1,8 @@
+package-lock.json
+yarn.lock
+yarn-error.log
+dist
+.angulardoc.json
+*.spec.ts
+src/api/*
+documentation
